@@ -1,0 +1,71 @@
+# ------------------------------
+# Data and intermediate outputs
+# ------------------------------
+data/
+*.tif
+*.tiff
+*.zip
+*.csv
+*.xlsx
+*.shp
+*.dbf
+*.prj
+*.shx
+*.gdb/
+*.rds
+*.RData
+
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+build/
+dist/
+.venv/
+venv/
+.env
+.envrc
+
+# VS Code / Jupyter
+.vscode/
+.ipynb_checkpoints/
+
+# ------------------------------
+# R
+# ------------------------------
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+.DS_Store
+
+# R package artifacts
+.Rbuildignore
+.Rcheck/
+*.Rout
+
+# ------------------------------
+# ArcGIS / QGIS
+# ------------------------------
+*.lock
+*.gdb/
+*.aux.xml
+*.sbn
+*.sbx
+*.lyr
+*.mxd
+*.qgs
+*.qgz
+
+# ------------------------------
+# OS / System
+# ------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini

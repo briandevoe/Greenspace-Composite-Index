@@ -72,6 +72,8 @@ A tract-year panel dataset (~70 k tracts × 20 years ≈ 1.4 M records) providin
 
 - **Desert (or other) geographical extremes and differences:** Is it fair to let the environment index values collapse in areas like the high desert in CA and then to categorize tracts within that geographical area as "low"? Should we apply weights to different geographical regions to more appropriately represent relative opportunity access to greenspace? (like how SEDA compares test scores between states?) -- This is probably the most difficult problem 
 
+- use Köppen climate zone ??? Ask BU department
+
 ---
 
 ## 5. Methods and Weighting Strategy
